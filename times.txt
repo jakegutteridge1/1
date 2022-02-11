@@ -1,14 +1,14 @@
-CEDARS PARK IS OPENED AT 7AM DAILY, AND CLOSING TIMES VARY AS FOLLOWS:
+Cedars Park is opened at 07:00 daily, and closing times vary as follows:
 
-JANUARY   16:00
-FEBRUARY	17:00
-MARCH	  	18:00
-APRIL	  	19:00
-MAY   		20:00
-JUNE	  	21:00
-JULY	  	21:00
-AUGUST	  20:30
-SEPTEMBER	19:30
-OCTOBER	  18:00
-NOVEMBER	16:30
-DECEMBER	16:00
+January		16:00
+February	17:00
+March	  	18:00
+April	  	19:00
+May   		20:00
+June	  	21:00
+July	  	21:00
+August		20:30
+September	19:30
+October		18:00
+November	16:30
+December	16:00
