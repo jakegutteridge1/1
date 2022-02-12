@@ -1,4 +1,6 @@
-Cedars Park is opened at 07:00 daily, and closing times vary as follows:
+Cedars Park is open every day of the year except Christmas Day.
+
+The gates opened at 07:00 daily, and closing times vary as follows:
 
 January		16:00
 February	17:00
@@ -12,3 +14,5 @@ September	19:30
 October		18:00
 November	16:30
 December	16:00
+
+Please note that the pedestrian gates are locked 15 minutes before closing time.
