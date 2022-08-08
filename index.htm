@@ -8,10 +8,6 @@ function startTime() {if(imgCount == imgArray.length) {imgCount = 0;}
 document.getElementById("front").src = imgArray[imgCount];imgCount++;setTimeout("startTime()", 5000);}
 </SCRIPT>
 
-<STYLE>
-BODY{width:100%;max-width:950px;margin:auto;padding:8px}
-</STYLE>
-
 <BODY ONLOAD=startTime()>
 
 <CENTER>
